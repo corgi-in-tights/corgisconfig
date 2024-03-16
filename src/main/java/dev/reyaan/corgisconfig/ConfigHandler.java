@@ -1,8 +1,5 @@
 package dev.reyaan.corgisconfig;
 
-import com.google.gson.Gson;
-import com.google.gson.GsonBuilder;
-
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
